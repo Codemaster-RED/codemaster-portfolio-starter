@@ -1,5 +1,8 @@
+## To access course materials go to https://portfolio-starter.codemaster.red/ **sign up**. You'll receive the materials in your inbox!
+
+
 # 🚀 Web Development Portfolio Starter Kit
-Welcome to the Web Development Portfolio Starter Kit! This repository serves as a foundational template for budding web developers looking to showcase their skills, projects, and journey. Crafted with beginners in mind, it provides a simple yet professional structure that you can personalize and expand upon.
+Welcome to the Web Development Portfolio Starter Kit! This repository serves as a foundational template for budding web developers looking to showcase their skills, projects, and journeys. Crafted with beginners in mind, it provides a simple yet professional structure that you can personalize and expand upon.
 
 # 🌟 Features
 ## 🔧 Basic Structure
