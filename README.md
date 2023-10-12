@@ -1,4 +1,4 @@
-## To access course materials go to https://portfolio-starter.codemaster.red/ **sign up**. You'll receive the materials in your inbox!
+## To access free course materials go to https://portfolio-starter.codemaster.red/ **sign up**. You'll receive the materials in your inbox!
 
 
 # 🚀 Web Development Portfolio Starter Kit
