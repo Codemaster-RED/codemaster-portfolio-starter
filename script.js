@@ -1,0 +1,1 @@
+const secretToken = '12432423';
