@@ -1,4 +1,6 @@
-## To access the course materials go to https://portfolio-starter.codemaster.red/ **sign up**.
+## To access the course materials go to https://codemaster.red/ & **buy the course**.
+
+Then send us your github username using the form at the bottom of the above page and we will get you activated within 24 hours.
 
 
 # 🚀 Web Development Portfolio Starter Kit
